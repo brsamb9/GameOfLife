@@ -7,6 +7,8 @@ Run `cargo run --release` in the directory to run the program. `esc` button to q
 * Visualise previous live states as a decaying grey pixel.
 * Move mouse to impose a lightweight space-ship in a random direction.
 <br><br><br>
+Random snap-shot:
+<br>
 ![gol_snapshot](https://user-images.githubusercontent.com/69250411/97092474-17ea1e00-163c-11eb-9099-6fc8017ecfbb.png)
 <br><br><br>
 Other note-worthy mentions:
